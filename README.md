@@ -1,4 +1,4 @@
-#Calculadora JS
+# Calculadora JS
 
 # <img src="./.github/calculadora.png" style="display: block; margin: 0 auto" width="350px" />
 
