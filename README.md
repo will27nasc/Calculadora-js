@@ -2,7 +2,7 @@
 
 # <img src="./.github/calculadora.png" style="display: block; margin: 0 auto" width="350px" />
 
-## Proposta 
+## 🤔 Proposta 
 
 Calculadora que executa as 4 operações.
 
